@@ -1,0 +1,12 @@
+{
+    "name": "Akhil",
+    "isTeacher": true,
+    "address": {
+        "city": "Delhi",
+        "country": "India"
+    },
+    "subjects": [
+        "Pyhton",
+        "AI/ML"
+    ]
+}
